@@ -8,7 +8,7 @@
   "server": {
     "ip": "FROXPVP.aternos.me",
     "port": 26770,
-    "version": "",
+    "version": 1.21.3,
     "try-creative": false
   },
   "position": {
